@@ -19,17 +19,17 @@
             "required": true
         },
         "PING_PIC": {
-            "description": "لا تغيـرها ابدا. ",
+            "description": "لا تغيـرها ابدا.",
             "required": false,
             "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
         },
         "THUMB_PIC": {
-            "description": "لا تغيـرها ابدا. ",
+            "description": "لا تغيـرها ابدا.",
             "required": false,
             "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
         },
         "HNDLR": {
-            "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
+            "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها",
             "required": false,
             "value": "."
         },
@@ -38,18 +38,17 @@
             "required": true
         },
         "OWNER": {
-            "description": "معرف حساب المالك بدون علامه @ مثال : J0KER7x ",
-            "required": true            
-            },
+            "description": "معرف حساب المالك بدون علامه @ مثال : J0KER7x",
+            "required": true
+        },
         "OWNER_NAME": {
-            "description": "ضع هنا اسم حساب  (حسابك الاساسي) ",
+            "description": "ضع هنا اسم حساب (حسابك الاساسي)",
             "required": true
-            },
+        },
         "SUDO_USERS": {
-            "description": "هنا ضع ايدي حسابك كمطور للبوت ",
+            "description": "هنا ضع ايدي حسابك كمطور للبوت",
             "required": true
-
-        }        
+        }
     },
     "addons": [],
     "buildpacks": [
@@ -63,7 +62,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "standard-1x"
         }
     },
     "stack": "container"
