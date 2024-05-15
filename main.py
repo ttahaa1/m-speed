@@ -1,5 +1,5 @@
 import asyncio
-from pytgcalls import idle
+from pytgcalls import libx
 from config import call_py
 from MusicTelethon.التشغيل import arq
 async def main():
