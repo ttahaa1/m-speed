@@ -1,7 +1,7 @@
 {
-    "name": "- سيلفا الاك ميوزك",
-    "description": "-⿻↬──────@SO_SELVA للمعرفة تحديثات تابعوا قناتنا معرف قناتنا",
-    "logo": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg",
+    "name": "- سبيد الاك ميوزك",
+    "description": "-⿻↬──────@سببيد,
+    "logo": "https://telegra.ph/file/2786b39f4d0b807d38a7d.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
@@ -21,7 +21,7 @@
         "PING_PIC": {
             "description": "لا تغيـرها ابدا.",
             "required": false,
-            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
+            "value": "https://telegra.ph/file/2786b39f4d0b807d38a7d.jpg"
         },
         "THUMB_PIC": {
             "description": "لا تغيـرها ابدا.",
